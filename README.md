@@ -5,7 +5,22 @@
   <img src="https://img.shields.io/badge/Lifelong-Learner-orange?style=for-the-badge" />
 
   # Ahmad Yehya
-  💻 CS Student | 🔐 Cybersecurity | 💼 Business Enthusiast
+  � Hi! | �💻 CS Student | 🔐 Cybersecurity 
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">GitHub Stats</h3>
+        <img src="https://github-readme-stats.vercel.app/api?username=ayehya2&show_icons=true&theme=radical&hide_border=true" alt="Ahmad's GitHub Stats" />
+      </td>
+      <td width="50%">
+        <h3 align="center">Most Used Languages</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayehya2&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <table align="center">
@@ -38,8 +53,20 @@
 </table>
 
 <div align="center">
-  <a href="https://github.com/ayehya2"><img src="https://img.shields.io/badge/GitHub-ayehya2-black?style=for-the-badge&logo=github" /></a>
-  <a href="https://linkedin.com/in/ahmadyehya"><img src="https://img.shields.io/badge/LinkedIn-Ahmad%20Yehya-blue?style=for-the-badge&logo=linkedin" /></a>
+  <h3>Tech Stack</h3>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  
+  <div style="margin-top: 10px;">
+    <a href="https://github.com/ayehya2"><img src="https://img.shields.io/badge/GitHub-ayehya2-black?style=for-the-badge&logo=github" /></a>
+    <a href="https://linkedin.com/in/ahmadyehya"><img src="https://img.shields.io/badge/LinkedIn-Ahmad%20Yehya-blue?style=for-the-badge&logo=linkedin" /></a>
+  </div>
 </div>
 
 ---
