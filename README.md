@@ -13,7 +13,7 @@
     <tr>
       <td width="50%">
         <h3 align="center">GitHub Stats</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=ayehya2&show_icons=true&theme=radical&hide_border=true" alt="Ahmad's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=ayehya2&show_icons=true&theme=radical&hide_border=true&cache_seconds=60" alt="Ahmad's GitHub Stats" />
       </td>
       <td width="50%">
         <h3 align="center">Most Used Languages</h3>
