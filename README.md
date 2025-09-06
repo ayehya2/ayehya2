@@ -8,22 +8,6 @@
   � Hi! | �💻 CS Student | 🔐 Cybersecurity 
 </div>
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">GitHub Stats</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=ayehya2&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Ahmad's GitHub Stats" />
-
-      </td>
-      <td width="50%">
-        <h3 align="center">Most Used Languages</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayehya2&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
 <table align="center">
   <tr>
     <th><img src="https://img.shields.io/badge/🛠️-SKILLS-0a0a0a?style=flat-square" /></th>
