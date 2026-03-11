@@ -1,12 +1,8 @@
+# 👋 Hi, I'm Ahmad Yehya
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Computer%20Science-TMU-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cybersecurity-Enthusiast-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Lifelong-Learner-orange?style=for-the-badge" />
+**Computer Science Student @ TMU** | **Cybersecurity Enthusiast** | **Full-Stack Developer**
 
-  # Ahmad Yehya
-  � Hi! | �💻 CS Student | 🔐 Cybersecurity 
-</div>
+I'm passionate about building secure, scalable solutions and exploring the intersection of cybersecurity and modern web technologies. Currently focused on advancing my expertise in security engineering while contributing to open-source projects.
 
 <table align="center">
   <tr>
@@ -99,10 +95,15 @@
 ---
 
 <div align="center">
-  <h3>⚡ Quote</h3>
-  <blockquote>
-    خير الناس أنفعهم للناس<br>
-    — النبي محمد ﷺ<br>
-    <sub><i>Translation: The best of people are those most beneficial to others.</i></sub>
-  </blockquote>
+
+### 💭 Philosophy
+
+> **خير الناس أنفعهم للناس**  
+> *"The best of people are those most beneficial to others."*  
+> — Prophet Muhammad ﷺ
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=ayehya2&color=blueviolet&style=for-the-badge)
+
 </div>
