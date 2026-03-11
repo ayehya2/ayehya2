@@ -2,16 +2,16 @@
 
 **CS Student @ TMU · Cybersecurity · Full-Stack Development**
 
-Building secure, scalable software at the intersection of security engineering and modern web technologies. Currently deepening expertise in cryptographic protocols and applying ML to real-world security problems.
+Building secure, scalable software at the intersection of security engineering and modern web technologies.
 
 ---
 
 ## Focus Areas
 
-- Advanced cryptography, network security, and secure application design
-- Machine learning & generative AI in security contexts
-- Full-stack development with security-first principles
-- Cross-platform apps (Tauri, React Native) and microservices architecture
+- Cryptography, network security, and secure application design
+- Machine learning & generative AI applied to real-world problems
+- Microservices architecture and cross-platform development
+- Open to opportunities in cybersecurity and software engineering
 
 ---
 
