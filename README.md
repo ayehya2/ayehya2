@@ -70,8 +70,6 @@ Building secure, scalable software at the intersection of security engineering a
 [![Arclume](https://img.shields.io/badge/Arclume-5B21B6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6TTIgMTdsOSA1IDktNXYtNkwyIDExeiIvPjwvc3ZnPg==&logoColor=white)](https://arclume.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayehya2)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ayehya2&color=blueviolet&style=for-the-badge)
-
 ---
 
 <div align="center">
